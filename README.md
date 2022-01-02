@@ -22,5 +22,7 @@ professional dog training – as my second job. Recently I’ve started to be mo
 * wyszkolewas.com.pl
 * testerzy.pl
 # Webinars
-# My test case examples
+# My Test Plan Execution Report
+* [Test Project: Portfolio](https://drive.google.com/drive/my-drive)
+* [Test Project: Szkolenie](https://drive.google.com/drive/my-drive)
 # My bug reports 
