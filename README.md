@@ -23,6 +23,6 @@ professional dog training – as my second job. Recently I’ve started to be mo
 * testerzy.pl
 # Webinars
 # My Test Plan Execution Report
-* [Test Project: Portfolio](https://drive.google.com/drive/my-drive)
+* [Test Project: Portfolio](https://drive.google.com/file/d/1laHhXNq5P0mun5-jzGiQ-l7rwbXBkQXS/view?usp=sharing)
 * [Test Project: Szkolenie](https://drive.google.com/drive/my-drive)
 # My bug reports 
