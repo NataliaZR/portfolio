@@ -3,8 +3,8 @@
 I am an experienced financial settlement specialist and have also pursued my long-time passion –
 professional dog training – as my second job. Recently I’ve started to be more interested in IT. When I was thinking about changing my career path, I talked with friends working as Software Testers. When I heard more about this profession, I got really interested, because I like to spot discrepancies and I have an inquisitive mind. I would like to gain experience in Software Testing – I’ve completed an individual Software Testing course and I really liked it. I’m open to new challenges and learning new skills.
 # Tools 
-* [Jira](https://nataliazr.atlassian.net/jira/software/projects/SW/boards/1/backlog)
-* [TestLink](http://127.0.0.1/testlink/index.php)
+* ***Jira***
+* ***TestLink***
 # Tech skills
 * Ability to write test scenarios and test cases using **TestLink**
 * Ability to report bugs using **Jira**
@@ -25,9 +25,7 @@ professional dog training – as my second job. Recently I’ve started to be mo
 * testerzy.pl
 # Webinars
 # My Test Plan Execution Report
-* [Test Project: Portfolio](https://drive.google.com/file/d/1laHhXNq5P0mun5-jzGiQ-l7rwbXBkQXS/view?usp=sharing)
-* [Test Project: Szkolenie](https://drive.google.com/file/d/1S-SRbUcpG_fbCCU4oKAXSfbpnvJLiIIj/view?usp=sharing)
+* [Test Project: Portfolio](https://drive.google.com/file/d/1laHhXNq5P0mun5-jzGiQ-l7rwbXBkQXS/view?usp=sharing)(based on the Bonito app)
 # My Test Reports
-* [ResultsTcFlat_Portfolio](https://docs.google.com/spreadsheets/d/1rogBGr_N_BpEyWA4mJI7E_tquB5Gla21/edit?usp=sharing&ouid=108872309937717080744&rtpof=true&sd=true)
-* [ResultsTcFlat_Szkolenie](https://docs.google.com/spreadsheets/d/1IdS667Xhu0qlIyeMAo-Bcr7UVf4Pwmsd/edit?usp=sharing&ouid=108872309937717080744&rtpof=true&sd=true)
+* [ResultsTcFlat_Portfolio](https://docs.google.com/spreadsheets/d/1rogBGr_N_BpEyWA4mJI7E_tquB5Gla21/edit?usp=sharing&ouid=108872309937717080744&rtpof=true&sd=true) (based on the Bonito app)
 # My bug reports 
