@@ -12,9 +12,9 @@ professional dog training – as my second job. Recently I’ve started to be mo
 * Executing test cases and creating reports using existing test cases from TestLink
 * Basic knowledge of SQL
 # Courses
-1-to-1 QA manual software testing [course](https://www.wyszkolewas.com.pl/) with Waldemar Szafraniec
-Zostań QA lub Testerem oprogramowania od zera (Evgeny Novikov, Katarzyna Novikova) - Udemy course (in progress)
-Angielski dla specjalistów IT (Videopoint Grupa Helion) - Udemy course (in progress)
+* 1-to-1 QA manual software testing [course](https://www.wyszkolewas.com.pl/) with Waldemar Szafraniec
+* Zostań QA lub Testerem oprogramowania od zera (Evgeny Novikov, Katarzyna Novikova) - Udemy course (in progress)
+* Angielski dla specjalistów IT (Videopoint Grupa Helion) - Udemy course (in progress)
 # Books
 * Zawód tester - R. Smiling (in progress)
 # Groups on Facebook
