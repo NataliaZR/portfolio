@@ -6,10 +6,21 @@ professional dog training – as my second job. Recently I’ve started to be mo
 * [Jira](https://nataliazr.atlassian.net/jira/software/projects/SW/boards/1/backlog)
 * [TestLink](http://127.0.0.1/testlink/index.php)
 # Tech skills
+* Ability to write test scenarios and test cases using **TestLink**
+* Ability to report bugs using **Jira**
+* Test planning – creating mind maps
+* Executing test cases and creating reports using existing test cases from TestLink
+* Basic knowledge of SQL
 # Courses
+1-to-1 QA manual software testing [course](https://www.wyszkolewas.com.pl/) with Waldemar Szafraniec 
 # Books
+* Zawód tester - R. Smiling
 # Groups on Facebook
+* Tester oprogramowania - wsparcie na starcie
+* Girls Who Test
 # Reccommended blogs
+* wyszkolewas.com.pl
+* testerzy.pl
 # Webinars
 # My test case examples
 # My bug reports 
