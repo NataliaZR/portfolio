@@ -18,7 +18,7 @@ professional dog training – as my second job. Recently I’ve started to be mo
 # Groups on Facebook
 * Tester oprogramowania - wsparcie na starcie
 * Girls Who Test
-# Reccommended blogs
+# Recommended blogs
 * wyszkolewas.com.pl
 * testerzy.pl
 # Webinars
