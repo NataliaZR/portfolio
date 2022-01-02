@@ -14,7 +14,7 @@ professional dog training – as my second job. Recently I’ve started to be mo
 # Courses
 1-to-1 QA manual software testing [course](https://www.wyszkolewas.com.pl/) with Waldemar Szafraniec 
 # Books
-* Zawód tester - R. Smiling
+* Zawód tester - R. Smiling (in progress)
 # Groups on Facebook
 * Tester oprogramowania - wsparcie na starcie
 * Girls Who Test
