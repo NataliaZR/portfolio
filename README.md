@@ -29,4 +29,4 @@ professional dog training – as my second job. Recently I’ve started to be mo
 # My Test Reports
 * [ResultsTcFlat_Portfolio](https://docs.google.com/spreadsheets/d/1rogBGr_N_BpEyWA4mJI7E_tquB5Gla21/edit?usp=sharing&ouid=108872309937717080744&rtpof=true&sd=true) (based on the Bonito app)
 # My bug reports 
-* [Backlog_Jira] (https://drive.google.com/file/d/116P1Usj7fDVFdSwu3P0JPMY1XNtrOsv7/view?usp=sharing)
+* [Backlog_Jira](https://drive.google.com/file/d/116P1Usj7fDVFdSwu3P0JPMY1XNtrOsv7/view?usp=sharing)
